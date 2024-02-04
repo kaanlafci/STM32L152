@@ -1,0 +1,8 @@
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:90:19:HAL_RCCEx_PeriphCLKConfig	24
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:229:6:HAL_RCCEx_GetPeriphCLKConfig	2
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:266:10:HAL_RCCEx_GetPeriphCLKFreq	12
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:358:6:HAL_RCCEx_EnableLSECSS	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:371:6:HAL_RCCEx_DisableLSECSS	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:385:6:HAL_RCCEx_EnableLSECSS_IT	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:402:6:HAL_RCCEx_LSECSS_IRQHandler	2
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_rcc_ex.c:419:13:HAL_RCCEx_LSECSS_Callback	1

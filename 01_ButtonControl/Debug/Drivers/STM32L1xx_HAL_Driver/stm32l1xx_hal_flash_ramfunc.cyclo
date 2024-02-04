@@ -1,0 +1,8 @@
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:113:30:HAL_FLASHEx_EnableRunPowerDown	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:126:30:HAL_FLASHEx_DisableRunPowerDown	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:302:30:HAL_FLASHEx_HalfPageProgram	3
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:394:30:HAL_FLASHEx_GetError	1
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:426:30:HAL_FLASHEx_DATAEEPROM_EraseDoubleWord	2
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:486:30:HAL_FLASHEx_DATAEEPROM_ProgramDoubleWord	2
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:586:37:FLASHRAM_WaitForLastOperation	10
+C:/Users/win/STM32Cube/Repository/STM32Cube_FW_L1_V1.10.4/Drivers/STM32L1xx_HAL_Driver/Src/stm32l1xx_hal_flash_ramfunc.c:540:37:FLASHRAM_SetErrorCode	6
